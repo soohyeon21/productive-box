@@ -1,7 +1,4 @@
-<p align="center"> 
-  <a href="http://lovera.maxam.now.sh/">
-    <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
-  </a>
+<p align="center">
   <h3 align="center">📌✨productive-box</h3>
 </p>
 
@@ -25,6 +22,12 @@
 
 ## Overview
 This project uses GitHub graphQL API to get the commit histories and write into the gist by [rest.js](https://github.com/octokit/rest.js#readme)
+
+## Time check
+☕️ morning : 6 - 12 <br/>
+☀️ daytime : 12 - 18 <br/>
+🌆 evening : 18 - 24 <br/>
+🌙 night : 0 - 6
 
 ## Setup
 
